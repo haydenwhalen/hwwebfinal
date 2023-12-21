@@ -1,0 +1,61 @@
+.border{
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    }
+a{
+    color: rgb(5, 5, 5);
+    font-style: italic;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    font-size: 35px;
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(26, 127, 214);
+}
+.bigger{
+    font-size: 25px;
+}
+
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.homebg{
+    background-image: url(../images/background.jpeg);
+}
+.justify{
+    text-align: justify;
+}
+.hometext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: blueviolet;
+    text-decoration: dotted;
+}
+
+
+
+
+
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: gray
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    color: rgb(12, 68, 135);
+    font-weight: normal;
+}

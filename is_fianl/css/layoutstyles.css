@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61Uxdjdo+OL._AC_UF894,1000_QL80_.jpg);
+    background-color: #555555;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.common{
+    background-image: url(https://img.freepik.com/premium-photo/pastel-textured-background-colorful-abstract-vintage-pattern-background-design-web-banner_861973-2660.jpg);
+
+    border: 2px solid rgb(21, 19, 19);
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    padding-left: 10px;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 680px;
+    bottom: 19px;
+
+}
+
+.rightmenu{
+    top: 114px;
+    left: 694px;
+    right: 5px;
+    bottom: 19px;
+}
+
+.mainbody{
+    top: 700px;
+    height: 1500px;
+    left: 5px;
+    right: 5px;
+}
+
+.footer{
+    top: 2212px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    bottom: 25px;
+}
+
